@@ -1,28 +1,28 @@
 # Lista de Calificaciones
-## Edgar Ramirez Gonzalez 
+## Edgar Ramírez Gonzaález 
 ### Licenciatura en Actuaría
 
-*Matemáticas Básicas  6*
-*Problemas de Matemáticas Básicas  6*
-*Programacion Actuarial I  6*
-*Intr a la profecion Actuarial  7*
-*DHPC  7*
-*Conceptos de Calculo  8*
-*Teoría del Interes I  7*
-*Geometria Analitica  8*
-*Microeconomia  9*
-*Teoria de Ecuaciones  8*
-*Calculo Diferencial  7*
-*Contabilidad General  7*
-*Teoria del Interes II  7*
-*Sistema Financiero Mexicano  8*
-*Macroeconomia  8*
-*Calculo Integral  7*
-*Algebra Lineal  8*
-*DHTIC  10*
-*Programacion Actuarial II  7*
-*Formacion Humana y Social  8*
-*Lengua Extranjera I  10*
-*Lengua Extranjera II  10*
-*Lengua Extranjera III  10*
-*Lengua Extranjera IV  10*
+* Matemáticas Básicas  6
+* Problemas de Matemáticas Básicas  6
+* Programación Actuarial I  6
+* Intr a la profeción Actuarial  7
+* DHPC  7
+* Conceptos de Cálculo  8
+* Teoría del Interes I  7
+* Geometría Analítica  8
+* Microeconomía  9
+* Teoría de Ecuaciones  8
+* Cálculo Diferencial  7
+* Contabilidad General  7
+* Teoría del Interés II  7
+* Sistema Financiero Mexicano  8
+* Macroeconomía  8
+* Cálculo Integral  7
+* Algebra Lineal  8
+* DHTIC  10
+* Programación Actuarial II  7
+* Formación Humana y Social  8
+* Lengua Extranjera I  10
+* Lengua Extranjera II  10
+* Lengua Extranjera III  10
+* Lengua Extranjera IV  10
