@@ -1,0 +1,27 @@
+camin <- function(x, mu)
+z <- x
+k <- 1
+vec <- vector("numeric", 0)
+
+for (i in 1:mu){
+  
+  length(vec) <- length(vec)+1
+  vec[k] <- (z)
+  
+  moneda <- rbinom(1,1,0.5)
+  
+  if(moneda==1){ 
+    z <- z+1
+    vec[k] <- z
+  }else{
+    z<-z-1
+    vec[k] <- z
+  }
+  
+  k <- k+1
+  
+  if(k== 5000) break
+}
+print(vec)
+plot(vec, type = "l", lwd=4)
+
